@@ -3,6 +3,7 @@ kind: Deployment
 metadata:
   name: nginx-deployment
 spec:
+  serviceName: gke-connect
   replicas: 1
   template:
     metadata:
