@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eastern-perigee-318307",
+  "private_key_id": "6395f069ed734a2d3c871d678ee79e8e7d811f9e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC0AAjFvA1SEGwi\nArF38Z3PhV6kPYKuzfjHVBGd94fkC/h1s/5wgPy8kahE62B8D0y2f0iErPJPdWuD\nJAQzWs7Q7rPH1MgAq7BpKFnoVIKHz8oodvgd6cQqsXR+d6pduncRvLAyy2ZC6e7g\nYzS/P41fLduUy52Xzp0ajsOD3Ng2+21OlqDLroPUJ6bfj8mTNk1rao6DMUxTRtFA\nFLcHu8f4JEth74kxaZKT8JS7B1LLv2iTNBiJ7+mbuNbakq9ciWUlFYBkeM0ddwLk\nkV+eHnaN18p+FD1idD4zigs1nMVVq4bIpzLonT4JUvDwYlyfmnaxot6OoIZ3aKwf\nsAjeOuwbAgMBAAECggEAJW90Y5tusciUlKY2vplTlttICaR5T12rBdmoKFBYxMbw\nj5o1qrRI2/b3Jg5F7MdJzxK9xEorwvbKu2V8MioKpU1fuom4ZttOPzCTMkyRMSm4\nA55qj94UXES3062Tkxa6uMejZY0D4ZrBgY1gZP4UqtzgtBt81Ru1dNaINx5xIU3j\nk/lS5rP4oVE6mlyMBDgnCYFW35Rbaa7XRh5d+5obziDpNXHU4eRpzylpT+MJWiLG\nYgKGjOVNRlTINH0PaEDlLRoQtNEqvyjlYfom2CarHOZjJNtHiRJyUs+h2NNcPENv\nRjhoaSYccmWtEHRC5OYOj6d/8w2lFdDMu8EWgLDFwQKBgQDqiXda+3m7G4iND9eG\nN2uPkzoOz5Brb8Arx+baXReBeorm0VJnEefQUnAQz+rQb2aPZ5UR3r/MfM0h29bW\nA4GrP3TpLrcBrIzo0JfjNVWf9o1zVkHORroD+3CScCtkOA55TT4AiYZYhZW0M9Ea\nV9fhy4UOf7wE8+bGK7USAXhEqwKBgQDEeOzOu/rynl3kEJJQ8UG4qsRrZlX08oJi\nNiXlfqb9uWzt5JZ6cRJslHVZjyXNR38d0rCO2YuBFgRWzDlHH40gmPkYc6pJppAW\nfjcALcfDQObx2+8zaYXzDIae9ye7zX7I29gcquv337tLRYBnoojuRQCh/nwTKQR2\nCfVwAtOWUQKBgQCn4ylWLoewIYB5AasU/5z2VLyNl5VY4tDcRieBjnviCpddrN9g\nupeHL0vbLQp4lBYFd29lMF95gKjSoOzDnBT5Qd5tgSwtfZgMnCztzuLxM+uDcW5/\nu28ypI2rtbHJ9rqdqGZGuis6OL22FhWL1u/JSQeBHny3yuQaXXUrY3P1KwKBgQC7\nt/JCoHbnwwpgcrjp32j04SxklVWBgQe0gJn6yOUSvUzniyV/fXOmDL6GwG/U0AAT\nZY/OHOrefkPNDrmXS/0SbTZq93B3iE5ZP2SbpiIcW3GNGp9UVvllvM0PK4RqOrBt\nhyfYVDK7FaglBhXmbvQ3+/Pb04OG5wTdJyy7RegV0QKBgQC374B0X4hrvAFGh9FC\nSnof+BoDhxL8d4fFP441zggsOo4DnPEtn9k3rz7nXAvcjhCxu84dUN726Y91suEQ\nGTqoRvGyimfAF4nB71wFJhd5rqCZUW4od51Q0XqxQt/8xIFjJaRZyHE0Sn2tY7sg\nnFmsokqvKiSI/vfsfHIYA0u98A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "jenkinpipeline@eastern-perigee-318307.iam.gserviceaccount.com",
+  "client_id": "106569971617425512957",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jenkinpipeline%40eastern-perigee-318307.iam.gserviceaccount.com"
+}
